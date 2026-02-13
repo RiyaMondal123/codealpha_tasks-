@@ -28,7 +28,7 @@ The following are the generated results obtained from the trained FAQ Chatbot mo
 ### ▶ Result 2
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%202.png)
 
-...............................................................................................
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # 🌐 Language Translator – Task 2
 
@@ -62,5 +62,4 @@ It is fully compatible with the latest Python versions, ensuring reliability and
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%204.png)
 
 
-...............................................................................................
 
