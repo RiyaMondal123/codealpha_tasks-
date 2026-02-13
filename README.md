@@ -12,12 +12,12 @@ The project focuses on natural language processing techniques to understand user
 - **NumPy** – Numerical computations and array operations  
 - **Pandas** – Data analysis and dataset handling  
 - **re (Regular Expressions)** – Text cleaning and pattern matching  
-- **NLPAug** – Data augmentation to improve model performance  
+- **NLPAug** – Data augmentation to improve model performance <br> 
 
-- ★ Results 1:
+ ➤ Results 1:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%201.png)
 
-- ★ Results 2:
+ ➤ Results 2:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%202.png)
 
 ...............................................................................................
