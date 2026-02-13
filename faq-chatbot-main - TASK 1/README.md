@@ -7,7 +7,8 @@ The project focuses on natural language processing techniques to understand user
 
 ## 🗂 Dataset
 The model is trained using an Hdfc FAQ dataset available on Kaggle:
-[Hdfc FAQ Dataset](https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt)<br>
+[Hdfc FAQ Dataset](https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt)
+
 
 ## 🔧 Technologies & Libraries Used
 
