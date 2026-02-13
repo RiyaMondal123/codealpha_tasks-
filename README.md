@@ -18,10 +18,14 @@ The model is trained using an Hdfc FAQ dataset available on Kaggle:
 - **re (Regular Expressions)** – Text cleaning and pattern matching  
 - **NLPAug** – Data augmentation to improve model performance <br> 
 
- ➤ Results 1:
+## 📊 Model Evaluation Results
+
+The following are the generated results obtained from the trained FAQ Chatbot model:
+
+### ▶ Result 1
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%201.png)
 
- ➤ Results 2:
+### ▶ Result 2
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%202.png)
 
 ...............................................................................................
