@@ -1,6 +1,6 @@
-# faq-chatbot
+# faq-chatbot TASK 1
 
-FAQ Chatbot is a machine learning based chatbot trained on FAQ [dataset](https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training) of Addhar.
+FAQ Chatbot is a machine learning based chatbot trained on FAQ [dataset](https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt) of Hdfc.
 
 - Libraries used:
   - Scikit-Learn
@@ -10,5 +10,8 @@ FAQ Chatbot is a machine learning based chatbot trained on FAQ [dataset](https:/
   - Pandas
   - NLPAug
 
-- Results:
-![](https://github.com/Aaryanverma/faq-chatbot/blob/main/Screenshot%202021-11-19%20011309.png)
+- Results 1:
+![](https://github.com/sovanshit/codealpha_tasks/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction.png)
+
+- Results 2:
+![](https://github.com/sovanshit/codealpha_tasks/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction.png)
