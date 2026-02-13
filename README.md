@@ -5,13 +5,14 @@ FAQ Chatbot – Machine Learning Based System    [dataset](https://www.kaggle.co
 The FAQ Chatbot is a machine learning–based conversational system designed to provide automated responses to frequently asked questions. The model is trained on an HDFC FAQ dataset to deliver accurate and context-aware answers in real time.<br><br>
 The project focuses on natural language processing techniques to understand user queries and generate relevant responses efficiently. It aims to enhance user experience by reducing manual support effort and providing instant assistance.<br><br>
 
-🔧 Technologies & Libraries Used
-    Scikit-learn – Machine learning model development and text classification
-    NLTK – Natural language processing and text preprocessing
-    NumPy – Numerical computations
-    Pandas – Data manipulation and analysis
-    Regular Expressions (re) – Text cleaning and pattern matching
-    NLPAug – Data augmentation for improving model performance
+## 🔧 Technologies & Libraries Used
+
+- **Scikit-learn** – Machine learning model development and text classification  
+- **NLTK** – Natural Language Processing and text preprocessing  
+- **NumPy** – Numerical computations and array operations  
+- **Pandas** – Data analysis and dataset handling  
+- **re (Regular Expressions)** – Text cleaning and pattern matching  
+- **NLPAug** – Data augmentation to improve model performance  
 
 - Results 1:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%201.png)
