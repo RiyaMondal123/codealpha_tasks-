@@ -1,4 +1,4 @@
-# faq-chatbot TASK 1
+# 🤖 FAQ Chatbot – Task 1
 
 FAQ Chatbot – Machine Learning Based System    [dataset](https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt) of Hdfc.
 
@@ -21,8 +21,6 @@ The project focuses on natural language processing techniques to understand user
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/faq-chatbot-main%20-%20TASK%201/Prediction%202.png)
 
 ...............................................................................................
-
-# Language-Translator TASK 2
 
 # 🌐 Language Translator – Task 2
 
