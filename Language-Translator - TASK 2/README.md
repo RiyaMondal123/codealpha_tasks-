@@ -1,17 +1,30 @@
-# Language-Translator TASK 2
+# 🌐 Language Translator – Task 2
 
-A sleek and modern GUI-based Language Translator developed using Python, Tkinter, and the Deep Translator API. <br> <br>
-This application enables users to translate text seamlessly between multiple languages through a clean, responsive, and user-friendly interface. <br> <br>
-Designed with a modern dark theme and enhanced typography, the project focuses on simplicity, performance, and usability while maintaining compatibility with the latest Python versions.<br> <br>
+## 📌 Project Overview
+A modern and intuitive GUI-based Language Translator developed using **Python**, **Tkinter**, and the **Deep Translator API**.
 
-- Results 1:
+The application enables users to translate text seamlessly across multiple languages through a clean, responsive, and user-friendly interface. It is designed to ensure accurate translations while maintaining smooth performance.
+
+## 🎨 Design & Compatibility
+The project features a contemporary dark theme with enhanced typography, focusing on simplicity, usability, and visual clarity.  
+It is fully compatible with the latest Python versions, ensuring reliability and long-term maintainability.
+
+## 🚀 Key Highlights
+- Multi-language translation support  
+- Clean and responsive GUI design  
+- Modern dark theme interface  
+- Efficient API integration  
+- Compatible with latest Python versions  
+
+
+➤ Results 1:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%201.png)
 
-- Results 2:
+➤ Results 2:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%202.png)
 
-- Results 3:
+➤ Results 3:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%203.png)
 
-- Results 4:
+➤ Results 4:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%204.png)
