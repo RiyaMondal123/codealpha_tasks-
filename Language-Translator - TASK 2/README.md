@@ -7,11 +7,11 @@ Designed with a modern dark theme and enhanced typography, the project focuses o
 - Results 1:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%201.png)
 
-- Results 1:
+- Results 2:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%202.png)
 
-- Results 1:
+- Results 3:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%203.png)
 
-- Results 1:
+- Results 4:
 ![](https://github.com/RiyaMondal123/codealpha_tasks-/blob/main/Language-Translator%20-%20TASK%202/Result%204.png)
