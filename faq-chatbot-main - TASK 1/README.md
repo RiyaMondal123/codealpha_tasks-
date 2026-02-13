@@ -5,6 +5,10 @@ FAQ Chatbot – Machine Learning Based System    [dataset](https://www.kaggle.co
 The FAQ Chatbot is a machine learning–based conversational system designed to provide automated responses to frequently asked questions. The model is trained on an HDFC FAQ dataset to deliver accurate and context-aware answers in real time.<br><br>
 The project focuses on natural language processing techniques to understand user queries and generate relevant responses efficiently. It aims to enhance user experience by reducing manual support effort and providing instant assistance.<br><br>
 
+## 🗂 Dataset
+The model is trained using an Hdfc FAQ dataset available on Kaggle:
+[Hdfc FAQ Dataset](https://www.kaggle.com/datasets/abbbhishekkk/faq-datasets-for-chatbot-training?select=HDFC_Faq.txt)<br>
+
 ## 🔧 Technologies & Libraries Used
 
 - **Scikit-learn** – Machine learning model development and text classification  
